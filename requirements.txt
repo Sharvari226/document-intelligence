@@ -1,3 +1,7 @@
 pillow
 matplotlib
 easyocr
+streamlit
+fastapi
+uvicorn
+python-multipart
