@@ -19,10 +19,16 @@ PaddleOCR | LayoutLMv3 | HuggingFace | PyTorch | Streamlit | FastAPI
 - [x] Bounding box visualization
 - [x] OCR pipeline
 - [x] OCR visualization with confidence scoring
-- [ ] LayoutLMv3 fine-tuning
-- [ ] Question answering
-- [ ] Streamlit dashboard
-- [ ] FastAPI backend
+- [x] OCR pipeline
+- [x] OCR visualization with confidence scoring
+- [x] LayoutLMv3 fine-tuning (F1: 0.82)
+- [x] Streamlit dashboard
+- [x] FastAPI backend
+
+## Demo
+![Document Intelligence Demo](assets/demo.png)
+<img width="1920" height="1008" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/9e700afc-a9a9-4de1-adf1-0236c9c9af8c" />
+
 
 ## Sample Visualization
 *(coming soon)*
