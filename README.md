@@ -23,7 +23,7 @@ PaddleOCR | LayoutLMv3 | HuggingFace | PyTorch | Streamlit | FastAPI
 - [x] OCR visualization with confidence scoring
 - [x] LayoutLMv3 fine-tuning (F1: 0.82)
 - [x] Streamlit dashboard
-- [ ] FastAPI backend
+- [x] FastAPI backend
 
 ## Demo
 ![Document Intelligence Demo](assets/demo.png)
