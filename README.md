@@ -17,7 +17,8 @@ PaddleOCR | LayoutLMv3 | HuggingFace | PyTorch | Streamlit | FastAPI
 ## Progress
 - [x] Dataset exploration
 - [x] Bounding box visualization
-- [ ] OCR pipeline
+- [x] OCR pipeline
+- [x] OCR visualization with confidence scoring
 - [ ] LayoutLMv3 fine-tuning
 - [ ] Question answering
 - [ ] Streamlit dashboard
