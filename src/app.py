@@ -8,7 +8,7 @@ from transformers import LayoutLMv3Processor, LayoutLMv3ForTokenClassification
 from pathlib import Path
 
 # ─── Config ───────────────────────────────────────────────
-MODEL_PATH = "models/layoutlmv3-finetuned"
+MODEL_PATH = "Sharvari22/layoutlmv3-funsd"
 LABEL_LIST = ['O', 'B-HEADER', 'I-HEADER', 'B-QUESTION', 'I-QUESTION', 'B-ANSWER', 'I-ANSWER']
 ID2LABEL = {idx: label for idx, label in enumerate(LABEL_LIST)}
 
