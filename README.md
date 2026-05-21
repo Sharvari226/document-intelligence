@@ -30,5 +30,13 @@ PaddleOCR | LayoutLMv3 | HuggingFace | PyTorch | Streamlit | FastAPI
 <img width="1920" height="1008" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/9e700afc-a9a9-4de1-adf1-0236c9c9af8c" />
 
 
-## Sample Visualization
-*(coming soon)*
+# Layout-Aware Document Intelligence System
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-url.streamlit.app)
+
+> Fine-tuned LayoutLMv3 on FUNSD achieving **0.82 F1 score** for document understanding
+
+## 🔗 Live Demo
+- **Streamlit Dashboard:** : (https://sharvari-document-intelligence.streamlit.app/)
+- **HuggingFace Model:** [Sharvari22/layoutlmv3-funsd](https://huggingface.co/Sharvari22/layoutlmv3-funsd)
+- **GitHub:** [Sharvari226/document-intelligence](https://github.com/Sharvari226/document-intelligence)
