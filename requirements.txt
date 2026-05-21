@@ -1,7 +1,9 @@
-pillow
-matplotlib
+torch
+torchvision
+transformers
 easyocr
 streamlit
-fastapi
-uvicorn
-python-multipart
+huggingface_hub
+Pillow
+numpy
+opencv-python-headless
