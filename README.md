@@ -25,11 +25,6 @@ PaddleOCR | LayoutLMv3 | HuggingFace | PyTorch | Streamlit | FastAPI
 - [x] Streamlit dashboard
 - [x] FastAPI backend
 
-## Demo
-![Document Intelligence Demo](assets/demo.png)
-<img width="1920" height="1008" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/9e700afc-a9a9-4de1-adf1-0236c9c9af8c" />
-
-
 # Layout-Aware Document Intelligence System
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-url.streamlit.app)
